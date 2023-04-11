@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/bin/Debug/net7.0/ConsoleAppfirstProject
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/bin/Debug/net7.0/ConsoleAppfirstProject.deps.json
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/bin/Debug/net7.0/ConsoleAppfirstProject.runtimeconfig.json
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/bin/Debug/net7.0/ConsoleAppfirstProject.dll
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/bin/Debug/net7.0/ConsoleAppfirstProject.pdb
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ConsoleAppfirstProject.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ConsoleAppfirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ConsoleAppfirstProject.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ConsoleAppfirstProject.AssemblyInfo.cs
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ConsoleAppfirstProject.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ConsoleAppfirstProject.dll
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/refint/ConsoleAppfirstProject.dll
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ConsoleAppfirstProject.pdb
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ConsoleAppfirstProject.genruntimeconfig.cache
+/Users/jeffersonong/Projects/firstProject/firstProject/ConsoleAppfirstProject/ConsoleAppfirstProject/obj/Debug/net7.0/ref/ConsoleAppfirstProject.dll
